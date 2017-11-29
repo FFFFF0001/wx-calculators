@@ -1,0 +1,6 @@
+{
+  "pages": [
+    "pages/calc/calc",
+    "pages/history/history"
+  ]
+}
